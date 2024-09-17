@@ -1,0 +1,1 @@
+This directory contains code snippets to document different possible ways to generate sentence embeddings using transformers.
